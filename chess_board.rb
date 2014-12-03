@@ -18,7 +18,7 @@ end
 
 m,n = 0,0
 
-while((m*n) <= 0 )do
+while((m*n) <= 0 ) do
   
   puts"Enter the no of Columns"
   m = (gets).to_i
